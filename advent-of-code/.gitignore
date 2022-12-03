@@ -1,0 +1,4 @@
+*.class
+*.jar
+META_INF/
+*.txt
