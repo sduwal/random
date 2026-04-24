@@ -1,0 +1,2754 @@
+{
+    "1": {
+        "year": 2083,
+        "month": 1,
+        "month_name": "Baisakh",
+        "month_name_nepali": "बैशाख",
+        "total_days": 31,
+        "days": [
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 1,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Nepali New Year",
+                "event_nepali": "नववर्ष २०८३ आरम्भ",
+                "tithi": 12,
+                "tithi_name": "Dwadashi"
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 2,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 3,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 4,
+                "is_holiday": false,
+                "is_public_holiday": false,
+                "event": "Matatirtha Aunsi",
+                "event_nepali": "मातातीर्थ औंसी"
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 5,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 6,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 7,
+                "is_holiday": false,
+                "is_public_holiday": false,
+                "event": "Akshaya Tritiya",
+                "event_nepali": "अक्षय तृतीया"
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 8,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 9,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 10,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 11,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Loktantra Diwas",
+                "event_nepali": "लोकतन्त्र दिवस"
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 12,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Sita Jayanti",
+                "event_nepali": "सीता जयन्ती"
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 13,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 14,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 15,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 16,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 17,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 18,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Buddha Jayanti / May Day",
+                "event_nepali": "बुद्ध जयन्ती, मजदुर दिवस"
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 19,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 20,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 21,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 22,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 23,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 24,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 25,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 26,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 27,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 28,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 29,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 30,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 1,
+                "day": 31,
+                "is_holiday": false,
+                "is_public_holiday": false
+            }
+        ]
+    },
+    "2": {
+        "year": 2083,
+        "month": 2,
+        "month_name": "Jestha",
+        "month_name_nepali": "जेठ",
+        "total_days": 31,
+        "days": [
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 1,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 2,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 3,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 4,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 5,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 6,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 7,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 8,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 9,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 10,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 11,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 12,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 13,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 14,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 15,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Republic Day",
+                "event_nepali": "गणतन्त्र दिवस"
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 16,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 17,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 18,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 19,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 20,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 21,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 22,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 23,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 24,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 25,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 26,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 27,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 28,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 29,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 30,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 2,
+                "day": 31,
+                "is_holiday": false,
+                "is_public_holiday": false
+            }
+        ]
+    },
+    "3": {
+        "year": 2083,
+        "month": 3,
+        "month_name": "Ashad",
+        "month_name_nepali": "असार",
+        "total_days": 32,
+        "days": [
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 1,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 2,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 3,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 4,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 5,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 6,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 7,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 8,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 9,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 10,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 11,
+                "is_holiday": false,
+                "is_public_holiday": false,
+                "event": "Nirjala Ekadashi",
+                "event_nepali": "निर्जला एकादशी"
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 12,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 13,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 14,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 15,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 16,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 17,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 18,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 19,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 20,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 21,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 22,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 23,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 24,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 25,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 26,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 27,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 28,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 29,
+                "is_holiday": false,
+                "is_public_holiday": false,
+                "event": "Bhanu Jayanti",
+                "event_nepali": "भानु जयन्ती"
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 30,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 31,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 3,
+                "day": 32,
+                "is_holiday": false,
+                "is_public_holiday": false
+            }
+        ]
+    },
+    "4": {
+        "year": 2083,
+        "month": 4,
+        "month_name": "Shrawan",
+        "month_name_nepali": "श्रावण",
+        "total_days": 31,
+        "days": [
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 1,
+                "is_holiday": false,
+                "is_public_holiday": false,
+                "event": "Saune Sankranti",
+                "event_nepali": "साउने संक्रान्ती"
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 2,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 3,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 4,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 5,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 6,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 7,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 8,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 9,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 10,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 11,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 12,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 13,
+                "is_holiday": false,
+                "is_public_holiday": false,
+                "event": "Guru Purnima",
+                "event_nepali": "गुरु पूर्णिमा"
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 14,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 15,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 16,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 17,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 18,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 19,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 20,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 21,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 22,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 23,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 24,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 25,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 26,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 27,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 28,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 29,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 30,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 4,
+                "day": 31,
+                "is_holiday": false,
+                "is_public_holiday": false
+            }
+        ]
+    },
+    "5": {
+        "year": 2083,
+        "month": 5,
+        "month_name": "Bhadra",
+        "month_name_nepali": "भाद्र",
+        "total_days": 31,
+        "days": [
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 1,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 2,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 3,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Krishna Janmashtami",
+                "event_nepali": "श्रीकृष्णजन्माष्टमी"
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 4,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 5,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 6,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 7,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 8,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 9,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 10,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 11,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 12,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 13,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 14,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 15,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 16,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 17,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 18,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 19,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 20,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 21,
+                "is_holiday": false,
+                "is_public_holiday": false,
+                "event": "Nijamati Sewa Diwas",
+                "event_nepali": "निजामती सेवा दिवस"
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 22,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 23,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 24,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 25,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 26,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 27,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 28,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 29,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Haritalika Teej",
+                "event_nepali": "हरितालिका ब्रत, तीज"
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 30,
+                "is_holiday": false,
+                "is_public_holiday": false,
+                "event": "Rishi Panchami",
+                "event_nepali": "ऋषिपञ्चमी"
+            },
+            {
+                "year": 2083,
+                "month": 5,
+                "day": 31,
+                "is_holiday": false,
+                "is_public_holiday": false
+            }
+        ]
+    },
+    "6": {
+        "year": 2083,
+        "month": 6,
+        "month_name": "Ashoj",
+        "month_name_nepali": "असोज",
+        "total_days": 31,
+        "days": [
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 1,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 2,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 3,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Constitution Day",
+                "event_nepali": "संविधान दिवस"
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 4,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 5,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 6,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 7,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 8,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 9,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 10,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 11,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 12,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 13,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 14,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 15,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 16,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 17,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 18,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 19,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 20,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 21,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 22,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 23,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 24,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 25,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Ghatasthapana",
+                "event_nepali": "घटस्थापना"
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 26,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 27,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 28,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 29,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 30,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 6,
+                "day": 31,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Fulpati",
+                "event_nepali": "फूलपाती"
+            }
+        ]
+    },
+    "7": {
+        "year": 2083,
+        "month": 7,
+        "month_name": "Kartik",
+        "month_name_nepali": "कार्तिक",
+        "total_days": 30,
+        "days": [
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 1,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Maha Ashtami",
+                "event_nepali": "महाष्टमी"
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 2,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Maha Navami",
+                "event_nepali": "महानवमी"
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 3,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Vijaya Dashami",
+                "event_nepali": "विजया दशमी"
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 4,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 5,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 6,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 7,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 8,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 9,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 10,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 11,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 12,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 13,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 14,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 15,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 16,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 17,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 18,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 19,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 20,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 21,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 22,
+                "is_holiday": false,
+                "is_public_holiday": false,
+                "event": "Kukur Tihar",
+                "event_nepali": "कुकुर तिहार"
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 23,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Laxmi Puja",
+                "event_nepali": "लक्ष्मी पूजा"
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 24,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Gobardhan Puja",
+                "event_nepali": "गोबर्धन पूजा"
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 25,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Bhai Tika",
+                "event_nepali": "भाइटीका"
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 26,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 27,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 28,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 29,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Chhath Parva",
+                "event_nepali": "छठपर्व"
+            },
+            {
+                "year": 2083,
+                "month": 7,
+                "day": 30,
+                "is_holiday": false,
+                "is_public_holiday": false
+            }
+        ]
+    },
+    "8": {
+        "year": 2083,
+        "month": 8,
+        "month_name": "Mangshir",
+        "month_name_nepali": "मंसिर",
+        "total_days": 30,
+        "days": [
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 1,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 2,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 3,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 4,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 5,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 6,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 7,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 8,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 9,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 10,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 11,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 12,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 13,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 14,
+                "is_holiday": false,
+                "is_public_holiday": false,
+                "event": "Bala Chaturdashi",
+                "event_nepali": "बाला चतुर्दशी"
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 15,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 16,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 17,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 18,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 19,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 20,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 21,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 22,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 23,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 24,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 25,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 26,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 27,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 28,
+                "is_holiday": false,
+                "is_public_holiday": false,
+                "event": "Vivaha Panchami",
+                "event_nepali": "विवाह पञ्चमी"
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 29,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 8,
+                "day": 30,
+                "is_holiday": false,
+                "is_public_holiday": false
+            }
+        ]
+    },
+    "9": {
+        "year": 2083,
+        "month": 9,
+        "month_name": "Poush",
+        "month_name_nepali": "पुष",
+        "total_days": 30,
+        "days": [
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 1,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 2,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 3,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 4,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 5,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 6,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 7,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 8,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 9,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 10,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Christmas Day",
+                "event_nepali": "क्रिसमस डे"
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 11,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 12,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 13,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 14,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 15,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Tamu Lhosar",
+                "event_nepali": "तमुल्होछार"
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 16,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 17,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 18,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 19,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 20,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 21,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 22,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 23,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 24,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 25,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 26,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 27,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Prithvi Jayanti",
+                "event_nepali": "पृथ्वी जयन्ती"
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 28,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 29,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 9,
+                "day": 30,
+                "is_holiday": false,
+                "is_public_holiday": false
+            }
+        ]
+    },
+    "10": {
+        "year": 2083,
+        "month": 10,
+        "month_name": "Magh",
+        "month_name_nepali": "माघ",
+        "total_days": 29,
+        "days": [
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 1,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Maghe Sankranti",
+                "event_nepali": "माघे संक्रान्ति"
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 2,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 3,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 4,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 5,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 6,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 7,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 8,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 9,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 10,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 11,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 12,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 13,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 14,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 15,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 16,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 17,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 18,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 19,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 20,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 21,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 22,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 23,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Saraswati Puja",
+                "event_nepali": "सरस्वती पूजा"
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 24,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Sonam Lhosar",
+                "event_nepali": "सोनाम ल्होसार"
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 25,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 26,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 27,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 28,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 10,
+                "day": 29,
+                "is_holiday": false,
+                "is_public_holiday": false
+            }
+        ]
+    },
+    "11": {
+        "year": 2083,
+        "month": 11,
+        "month_name": "Falgun",
+        "month_name_nepali": "फाल्गुन",
+        "total_days": 30,
+        "days": [
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 1,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 2,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 3,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 4,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 5,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 6,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 7,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "National Democracy Day",
+                "event_nepali": "राष्ट्रिय प्रजातन्त्र दिवस"
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 8,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 9,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 10,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 11,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 12,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 13,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 14,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 15,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 16,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 17,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 18,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 19,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 20,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 21,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 22,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Maha Shivaratri",
+                "event_nepali": "महाशिवरात्रि"
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 23,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 24,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "International Women's Day",
+                "event_nepali": "अन्तर्राष्ट्रिय महिला दिवस"
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 25,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 26,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Gyalpo Lhosar",
+                "event_nepali": "ग्याल्पो ल्होसार"
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 27,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 28,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 29,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 11,
+                "day": 30,
+                "is_holiday": false,
+                "is_public_holiday": false
+            }
+        ]
+    },
+    "12": {
+        "year": 2083,
+        "month": 12,
+        "month_name": "Chaitra",
+        "month_name_nepali": "चैत्र",
+        "total_days": 30,
+        "days": [
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 1,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 2,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 3,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 4,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 5,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 6,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 7,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Holi",
+                "event_nepali": "होली"
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 8,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 9,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 10,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 11,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 12,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 13,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 14,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 15,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 16,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 17,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 18,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 19,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 20,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 21,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 22,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 23,
+                "is_holiday": true,
+                "is_public_holiday": true,
+                "event": "Ghode Jatra",
+                "event_nepali": "घोडे जात्रा"
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 24,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 25,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 26,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 27,
+                "is_holiday": true,
+                "is_public_holiday": true
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 28,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 29,
+                "is_holiday": false,
+                "is_public_holiday": false
+            },
+            {
+                "year": 2083,
+                "month": 12,
+                "day": 30,
+                "is_holiday": false,
+                "is_public_holiday": false
+            }
+        ]
+    }
+}
