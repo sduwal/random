@@ -1,0 +1,3333 @@
+{
+  "1": {
+    "year": 2083,
+    "month": 1,
+    "month_name": "Baisakh",
+    "month_name_nepali": "बैशाख",
+    "total_days": 31,
+    "days":[
+      {
+        "day": 1,
+        "english_date": "2026-04-14",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "द्वादशी",
+        "events":[
+          {"title_english": "Nepali New Year", "title_nepali": "नववर्ष २०८३ आरम्भ"},
+          {"title_nepali": "भक्तपुर विस्केटजात्रा (विस्कोजात्रा)"}
+        ]
+      },
+      {
+        "day": 2,
+        "english_date": "2026-04-15",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "त्रयोदशी",
+        "events":[
+          {"title_nepali": "सिरुवा पावनी पर्व (सिरुवा पर्व मनाउने झापा, मोरङ)"}
+        ]
+      },
+      {
+        "day": 3,
+        "english_date": "2026-04-16",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्दशी",
+        "events":[
+          {"title_nepali": "भक्तपुर ब्रम्हायणी यात्रा"},
+          {"title_nepali": "मातातीर्थ चःह्रे पूजा"}
+        ]
+      },
+      {
+        "day": 4,
+        "english_date": "2026-04-17",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "औंशी",
+        "events":[
+          {"title_english": "Matatirtha Aunsi (Mothers Day)", "title_nepali": "मातातीर्थ औंसी"},
+          {"title_nepali": "आमाको मुख हेर्ने"}
+        ]
+      },
+      {
+        "day": 5,
+        "english_date": "2026-04-18",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "प्रतिपदा",
+        "events":[
+          {"title_nepali": "ललितपुर मछिन्द्रनाथ रथारोहण"}
+        ]
+      },
+      {
+        "day": 6,
+        "english_date": "2026-04-19",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वितीया",
+        "events": [
+          {"title_nepali": "परशुराम जयन्ती"}
+        ]
+      },
+      {
+        "day": 7,
+        "english_date": "2026-04-20",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "तृतीया",
+        "events":[
+          {"title_english": "Akshaya Tritiya", "title_nepali": "अक्षय तृतीया"},
+          {"title_nepali": "शिवपार्वती विवाह"}
+        ]
+      },
+      {
+        "day": 8,
+        "english_date": "2026-04-21",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्थी",
+        "events":[
+          {"title_nepali": "ललितपुर रातो मछिन्द्रनाथ रथ यात्रा आरम्भ"},
+          {"title_nepali": "छन्द दिवस"}
+        ]
+      },
+      {
+        "day": 9,
+        "english_date": "2026-04-22",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पञ्चमी",
+        "events":[
+          {"title_nepali": "आद्यगुरू शंकराचार्य जयन्ती"}
+        ]
+      },
+      {
+        "day": 10,
+        "english_date": "2026-04-23",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "सप्तमी"
+      },
+      {
+        "day": 11,
+        "english_date": "2026-04-24",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "अष्टमी",
+        "events":[
+          {"title_english": "Loktantra Diwas", "title_nepali": "लोकतन्त्र दिवस"}
+        ]
+      },
+      {
+        "day": 12,
+        "english_date": "2026-04-25",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "नवमी",
+        "events":[
+          {"title_english": "Sita Jayanti", "title_nepali": "सीता जयन्ती"}
+        ]
+      },
+      {
+        "day": 13,
+        "english_date": "2026-04-26",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "दशमी",
+        "events":[
+          {"title_nepali": "राष्ट्रिय फोटो पत्रकारिता दिवस"}
+        ]
+      },
+      {
+        "day": 14,
+        "english_date": "2026-04-27",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "एकादशी",
+        "events":[
+          {"title_nepali": "मोहिनी एकादशी"}
+        ]
+      },
+      {
+        "day": 15,
+        "english_date": "2026-04-28",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वादशी"
+      },
+      {
+        "day": 16,
+        "english_date": "2026-04-29",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "त्रयोदशी"
+      },
+      {
+        "day": 17,
+        "english_date": "2026-04-30",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्दशी",
+        "events":[
+          {"title_nepali": "नृसिंह जयन्ती"},
+          {"title_nepali": "स्वाँजा लेँसर्चा आनन्ददी पूजा"}
+        ]
+      },
+      {
+        "day": 18,
+        "english_date": "2026-05-01",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "पुर्णिमा",
+        "events":[
+          {"title_english": "Buddha Jayanti / May Day", "title_nepali": "गौतमबुद्ध जयन्ती, मजदुर दिवस"},
+          {"title_nepali": "स्वाँया पुन्हि:"}
+        ]
+      },
+      {
+        "day": 19,
+        "english_date": "2026-05-02",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "प्रतिपदा"
+      },
+      {
+        "day": 20,
+        "english_date": "2026-05-03",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वितीया",
+        "events":[
+          {"title_nepali": "राष्ट्रिय सूचना तथा सञ्चार प्रविधि दिवस"}
+        ]
+      },
+      {
+        "day": 21,
+        "english_date": "2026-05-04",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "तृतीया"
+      },
+      {
+        "day": 22,
+        "english_date": "2026-05-05",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्थी",
+        "events": [
+          {"title_nepali": "मङ्गलचौथी व्रत"}
+        ]
+      },
+      {
+        "day": 23,
+        "english_date": "2026-05-06",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्थी"
+      },
+      {
+        "day": 24,
+        "english_date": "2026-05-07",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पञ्चमी",
+        "events":[
+          {"title_nepali": "किराँत समाजसुधार दिवस"}
+        ]
+      },
+      {
+        "day": 25,
+        "english_date": "2026-05-08",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "षष्ठी"
+      },
+      {
+        "day": 26,
+        "english_date": "2026-05-09",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "सप्तमी",
+        "events":[
+          {"title_nepali": "अष्टमीव्रत"},
+          {"title_nepali": "गोरखकाली पूजा"}
+        ]
+      },
+      {
+        "day": 27,
+        "english_date": "2026-05-10",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "अष्टमी"
+      },
+      {
+        "day": 28,
+        "english_date": "2026-05-11",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "नवमी"
+      },
+      {
+        "day": 29,
+        "english_date": "2026-05-12",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "दशमी"
+      },
+      {
+        "day": 30,
+        "english_date": "2026-05-13",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "एकादशी",
+        "events":[
+          {"title_nepali": "अपरा एकादशी"}
+        ]
+      },
+      {
+        "day": 31,
+        "english_date": "2026-05-14",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वादशी"
+      }
+    ]
+  },
+  "2": {
+    "year": 2083,
+    "month": 2,
+    "month_name": "Jestha",
+    "month_name_nepali": "जेठ",
+    "total_days": 31,
+    "days":[
+      {
+        "day": 1,
+        "english_date": "2026-05-15",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "त्रयोदशी",
+        "events": [
+          {"title_nepali": "सिथि: च:ह्रे"}
+        ]
+      },
+      {
+        "day": 2,
+        "english_date": "2026-05-16",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "औंशी",
+        "events":[
+          {"title_nepali": "शनि जयन्ती"}
+        ]
+      },
+      {
+        "day": 3,
+        "english_date": "2026-05-17",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "प्रतिपदा",
+        "events":[
+          {"title_nepali": "अधिकमास आरम्भ"},
+          {"title_nepali": "मत्स्यनारायण मेला आरम्भ"}
+        ]
+      },
+      {
+        "day": 4,
+        "english_date": "2026-05-18",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वितीया"
+      },
+      {
+        "day": 5,
+        "english_date": "2026-05-19",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "तृतीया"
+      },
+      {
+        "day": 6,
+        "english_date": "2026-05-20",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्थी"
+      },
+      {
+        "day": 7,
+        "english_date": "2026-05-21",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पञ्चमी"
+      },
+      {
+        "day": 8,
+        "english_date": "2026-05-22",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "षष्ठी"
+      },
+      {
+        "day": 9,
+        "english_date": "2026-05-23",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "सप्तमी"
+      },
+      {
+        "day": 10,
+        "english_date": "2026-05-24",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "अष्टमी",
+        "events":[
+          {"title_nepali": "अष्टमीव्रत"},
+          {"title_nepali": "गोरखकाली पूजा"}
+        ]
+      },
+      {
+        "day": 11,
+        "english_date": "2026-05-25",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "नवमी"
+      },
+      {
+        "day": 12,
+        "english_date": "2026-05-26",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "दशमी",
+        "events":[
+          {"title_nepali": "गोसाईकुण्ड स्नान समाप्ति"},
+          {"title_nepali": "वैतडी विश्वनाथ मन्दिरमा गङ्गादशहरा"}
+        ]
+      },
+      {
+        "day": 13,
+        "english_date": "2026-05-27",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "एकादशी",
+        "events": [
+          {"title_nepali": "पद्मिनी एकादशी"}
+        ]
+      },
+      {
+        "day": 14,
+        "english_date": "2026-05-28",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वादशी",
+        "events":[
+          {"title_nepali": "प्रदोषव्रत"}
+        ]
+      },
+      {
+        "day": 15,
+        "english_date": "2026-05-29",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "त्रयोदशी",
+        "events":[
+          {"title_english": "Republic Day", "title_nepali": "गणतन्त्र दिवस"}
+        ]
+      },
+      {
+        "day": 16,
+        "english_date": "2026-05-30",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "चतुर्दशी",
+        "events":[
+          {"title_nepali": "पूर्णिमाव्रत"}
+        ]
+      },
+      {
+        "day": 17,
+        "english_date": "2026-05-31",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पुर्णिमा",
+        "events":[
+          {"title_nepali": "अनला पुन्हि:"}
+        ]
+      },
+      {
+        "day": 18,
+        "english_date": "2026-06-01",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "प्रतिपदा"
+      },
+      {
+        "day": 19,
+        "english_date": "2026-06-02",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वितीया"
+      },
+      {
+        "day": 20,
+        "english_date": "2026-06-03",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "तृतीया"
+      },
+      {
+        "day": 21,
+        "english_date": "2026-06-04",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्थी",
+        "events":[
+          {"title_nepali": "जातीय भेदभाव तथा छुवाछुत उन्मुलन राष्ट्रिय दिवस"}
+        ]
+      },
+      {
+        "day": 22,
+        "english_date": "2026-06-05",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पञ्चमी"
+      },
+      {
+        "day": 23,
+        "english_date": "2026-06-06",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "षष्ठी"
+      },
+      {
+        "day": 24,
+        "english_date": "2026-06-07",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "सप्तमी",
+        "events": [
+          {"title_nepali": "रवि सप्तमी"}
+        ]
+      },
+      {
+        "day": 25,
+        "english_date": "2026-06-08",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "अष्टमी",
+        "events":[
+          {"title_nepali": "अष्टमीव्रत"},
+          {"title_nepali": "गोरखकाली पूजा"}
+        ]
+      },
+      {
+        "day": 26,
+        "english_date": "2026-06-09",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "नवमी"
+      },
+      {
+        "day": 27,
+        "english_date": "2026-06-10",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "दशमी"
+      },
+      {
+        "day": 28,
+        "english_date": "2026-06-11",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "एकादशी",
+        "events":[
+          {"title_nepali": "परमा एकादशी"}
+        ]
+      },
+      {
+        "day": 29,
+        "english_date": "2026-06-12",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वादशी",
+        "events":[
+          {"title_nepali": "प्रदोषव्रत"}
+        ]
+      },
+      {
+        "day": 30,
+        "english_date": "2026-06-13",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "त्रयोदशी",
+        "events":[
+          {"title_nepali": "अनला च:ह्रे:"}
+        ]
+      },
+      {
+        "day": 31,
+        "english_date": "2026-06-14",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्दशी",
+        "events":[
+          {"title_nepali": "दर्शश्राद्ध"}
+        ]
+      }
+    ]
+  },
+  "3": {
+    "year": 2083,
+    "month": 3,
+    "month_name": "Ashad",
+    "month_name_nepali": "असार",
+    "total_days": 32,
+    "days":[
+      {
+        "day": 1,
+        "english_date": "2026-06-15",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "औंशी",
+        "events":[
+          {"title_nepali": "अधिकमास समाप्ती"},
+          {"title_nepali": "मत्स्यनारायण मेला समाप्ति"}
+        ]
+      },
+      {
+        "day": 2,
+        "english_date": "2026-06-16",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "प्रतिपदा"
+      },
+      {
+        "day": 3,
+        "english_date": "2026-06-17",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "तृतीया"
+      },
+      {
+        "day": 4,
+        "english_date": "2026-06-18",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्थी"
+      },
+      {
+        "day": 5,
+        "english_date": "2026-06-19",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पञ्चमी"
+      },
+      {
+        "day": 6,
+        "english_date": "2026-06-20",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "षष्ठी",
+        "events":[
+          {"title_nepali": "कुमार षष्ठी"},
+          {"title_nepali": "सिथी:नख"}
+        ]
+      },
+      {
+        "day": 7,
+        "english_date": "2026-06-21",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "सप्तमी",
+        "events":[
+          {"title_nepali": "रवी सप्तमी"},
+          {"title_nepali": "कुमार यात्रा"}
+        ]
+      },
+      {
+        "day": 8,
+        "english_date": "2026-06-22",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "अष्टमी",
+        "events":[
+          {"title_nepali": "वायु अष्टमी"},
+          {"title_nepali": "गोरखकाली पूजा"}
+        ]
+      },
+      {
+        "day": 9,
+        "english_date": "2026-06-23",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "नवमी"
+      },
+      {
+        "day": 10,
+        "english_date": "2026-06-24",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "दशमी"
+      },
+      {
+        "day": 11,
+        "english_date": "2026-06-25",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "एकादशी",
+        "events":[
+          {"title_english": "Nirjala Ekadashi", "title_nepali": "निर्जला एकादशी"},
+          {"title_nepali": "तुलसीको दल राख्ने"}
+        ]
+      },
+      {
+        "day": 12,
+        "english_date": "2026-06-26",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वादशी"
+      },
+      {
+        "day": 13,
+        "english_date": "2026-06-27",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "त्रयोदशी"
+      },
+      {
+        "day": 14,
+        "english_date": "2026-06-28",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्दशी"
+      },
+      {
+        "day": 15,
+        "english_date": "2026-06-29",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पुर्णिमा",
+        "events":[
+          {"title_nepali": "मष्टपुर्णिमा (ज्या:पुन्हि:)"},
+          {"title_nepali": "पनौती स्नान"}
+        ]
+      },
+      {
+        "day": 16,
+        "english_date": "2026-06-30",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "प्रतिपदा"
+      },
+      {
+        "day": 17,
+        "english_date": "2027-07-01",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "प्रतिपदा"
+      },
+      {
+        "day": 18,
+        "english_date": "2026-07-02",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वितीया"
+      },
+      {
+        "day": 19,
+        "english_date": "2026-07-03",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "तृतीया"
+      },
+      {
+        "day": 20,
+        "english_date": "2026-07-04",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "चतुर्थी"
+      },
+      {
+        "day": 21,
+        "english_date": "2026-07-05",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पञ्चमी"
+      },
+      {
+        "day": 22,
+        "english_date": "2026-07-06",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "षष्ठी"
+      },
+      {
+        "day": 23,
+        "english_date": "2026-07-07",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "सप्तमी",
+        "events":[
+          {"title_nepali": "अष्टमीव्रत"},
+          {"title_nepali": "गोरखकाली पूजा"}
+        ]
+      },
+      {
+        "day": 24,
+        "english_date": "2026-07-08",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "अष्टमी",
+        "events":[
+          {"title_nepali": "भलभल अष्टमी"},
+          {"title_nepali": "देउपाटनमा त्रिशुल जात्रा"}
+        ]
+      },
+      {
+        "day": 25,
+        "english_date": "2026-07-09",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "नवमी"
+      },
+      {
+        "day": 26,
+        "english_date": "2026-07-10",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "एकादशी",
+        "events":[
+          {"title_nepali": "स्मार्तहरुको योगिनी एकादशी"}
+        ]
+      },
+      {
+        "day": 27,
+        "english_date": "2026-07-11",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "द्वादशी",
+        "events":[
+          {"title_english": "World Population Day", "title_nepali": "विश्व जनसंख्या दिवस"},
+          {"title_nepali": "वैष्णवहरुको योगिनी एकादशी"}
+        ]
+      },
+      {
+        "day": 28,
+        "english_date": "2026-07-12",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "त्रयोदशी"
+      },
+      {
+        "day": 29,
+        "english_date": "2026-07-13",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्दशी",
+        "events":[
+          {"title_english": "Bhanu Jayanti", "title_nepali": "भानु जयन्ती"},
+          {"title_nepali": "दिलाच:ह्रे:"}
+        ]
+      },
+      {
+        "day": 30,
+        "english_date": "2026-07-14",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "औंशी",
+        "events":[
+          {"title_nepali": "दर्शश्राद्ध"}
+        ]
+      },
+      {
+        "day": 31,
+        "english_date": "2026-07-15",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "प्रतिपदा"
+      },
+      {
+        "day": 32,
+        "english_date": "2026-07-16",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वितीया",
+        "events":[
+          {"title_nepali": "जगन्नाथ रथयात्रा"}
+        ]
+      }
+    ]
+  },
+  "4": {
+    "year": 2083,
+    "month": 4,
+    "month_name": "Shrawan",
+    "month_name_nepali": "श्रावण",
+    "total_days": 31,
+    "days":[
+      {
+        "day": 1,
+        "english_date": "2026-07-17",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "तृतीया",
+        "events":[
+          {"title_english": "Saune Sankranti", "title_nepali": "साउन संक्रान्ती"},
+          {"title_nepali": "लुतो फाल्ने एवं राँको बाल्ने"}
+        ]
+      },
+      {
+        "day": 2,
+        "english_date": "2026-07-18",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "चतुर्थी"
+      },
+      {
+        "day": 3,
+        "english_date": "2026-07-19",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पञ्चमी"
+      },
+      {
+        "day": 4,
+        "english_date": "2026-07-20",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "षष्ठी"
+      },
+      {
+        "day": 5,
+        "english_date": "2026-07-21",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "सप्तमी"
+      },
+      {
+        "day": 6,
+        "english_date": "2026-07-22",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "अष्टमी",
+        "events":[
+          {"title_nepali": "अष्टमीव्रत"}
+        ]
+      },
+      {
+        "day": 7,
+        "english_date": "2026-07-23",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "नवमी"
+      },
+      {
+        "day": 8,
+        "english_date": "2026-07-24",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "दशमी"
+      },
+      {
+        "day": 9,
+        "english_date": "2026-07-25",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "एकादशी",
+        "events":[
+          {"title_nepali": "हरिशयनी एकादशी"},
+          {"title_nepali": "तुलसी रोप्ने"}
+        ]
+      },
+      {
+        "day": 10,
+        "english_date": "2026-07-26",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वादशी"
+      },
+      {
+        "day": 11,
+        "english_date": "2026-07-27",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "त्रयोदशी"
+      },
+      {
+        "day": 12,
+        "english_date": "2026-07-28",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्दशी"
+      },
+      {
+        "day": 13,
+        "english_date": "2026-07-29",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पुर्णिमा",
+        "events":[
+          {"title_english": "Guru Purnima", "title_nepali": "गुरु पूर्णिमा"},
+          {"title_nepali": "पूर्णिमाव्रत"}
+        ]
+      },
+      {
+        "day": 14,
+        "english_date": "2026-07-30",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "प्रतिपदा",
+        "events":[
+          {"title_nepali": "खिर खाने दिन"}
+        ]
+      },
+      {
+        "day": 15,
+        "english_date": "2026-07-31",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वितीया"
+      },
+      {
+        "day": 16,
+        "english_date": "2026-08-01",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "तृतीया"
+      },
+      {
+        "day": 17,
+        "english_date": "2026-08-02",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्थी"
+      },
+      {
+        "day": 18,
+        "english_date": "2026-08-03",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पञ्चमी"
+      },
+      {
+        "day": 19,
+        "english_date": "2026-08-04",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "षष्ठी"
+      },
+      {
+        "day": 20,
+        "english_date": "2026-08-05",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "सप्तमी",
+        "events":[
+          {"title_nepali": "अष्टमीव्रत"}
+        ]
+      },
+      {
+        "day": 21,
+        "english_date": "2026-08-06",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "अष्टमी"
+      },
+      {
+        "day": 22,
+        "english_date": "2026-08-07",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "नवमी"
+      },
+      {
+        "day": 23,
+        "english_date": "2026-08-08",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "दशमी"
+      },
+      {
+        "day": 24,
+        "english_date": "2026-08-09",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "एकादशी",
+        "events": [
+          {"title_nepali": "कामिका एकादशी"}
+        ]
+      },
+      {
+        "day": 25,
+        "english_date": "2026-08-10",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वादशी"
+      },
+      {
+        "day": 26,
+        "english_date": "2026-08-11",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्दशी",
+        "events":[
+          {"title_nepali": "घण्टाकर्ण चतुर्दशी"},
+          {"title_nepali": "गथांमुग च:ह्रे:"}
+        ]
+      },
+      {
+        "day": 27,
+        "english_date": "2026-08-12",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "औंशी"
+      },
+      {
+        "day": 28,
+        "english_date": "2026-08-13",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "प्रतिपदा",
+        "events": [
+          {"title_nepali": "गुँलाधर्म आरम्भ"}
+        ]
+      },
+      {
+        "day": 29,
+        "english_date": "2026-08-14",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वितीया",
+        "events": [
+          {"title_nepali": "चन्द्रोदय"}
+        ]
+      },
+      {
+        "day": 30,
+        "english_date": "2026-08-15",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "तृतीया",
+        "events":[
+          {"title_nepali": "वराह जयन्ती"}
+        ]
+      },
+      {
+        "day": 31,
+        "english_date": "2026-08-16",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्थी"
+      }
+    ]
+  },
+  "5": {
+    "year": 2083,
+    "month": 5,
+    "month_name": "Bhadra",
+    "month_name_nepali": "भाद्र",
+    "total_days": 31,
+    "days":[
+      {
+        "day": 1,
+        "english_date": "2026-08-17",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पञ्चमी",
+        "events":[
+          {"title_nepali": "नाग पञ्चमी (नाग टाँस्ने)"}
+        ]
+      },
+      {
+        "day": 2,
+        "english_date": "2026-08-18",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "षष्ठी",
+        "events":[
+          {"title_nepali": "कल्की जयन्ती"}
+        ]
+      },
+      {
+        "day": 3,
+        "english_date": "2026-08-19",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "सप्तमी",
+        "events":[
+          {"title_nepali": "गोश्वामी तुलसीदास जयन्ती"},
+          {"title_nepali": "राष्ट्रिय सूचना दिवस"}
+        ]
+      },
+      {
+        "day": 4,
+        "english_date": "2026-08-20",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "अष्टमी",
+        "events":[
+          {"title_nepali": "अष्टमीव्रत"},
+          {"title_nepali": "यल पञ्चदान"}
+        ]
+      },
+      {
+        "day": 5,
+        "english_date": "2026-08-21",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "नवमी"
+      },
+      {
+        "day": 6,
+        "english_date": "2026-08-22",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "दशमी"
+      },
+      {
+        "day": 7,
+        "english_date": "2026-08-23",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "एकादशी",
+        "events":[
+          {"title_nepali": "पुत्रादा एकादशी"}
+        ]
+      },
+      {
+        "day": 8,
+        "english_date": "2026-08-24",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वादशी"
+      },
+      {
+        "day": 9,
+        "english_date": "2026-08-25",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वादशी"
+      },
+      {
+        "day": 10,
+        "english_date": "2026-08-26",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "त्रयोदशी",
+        "events":[
+          {"title_nepali": "पूर्णिमाव्रत"},
+          {"title_nepali": "बाजुरा बडिमालिका मेला"}
+        ]
+      },
+      {
+        "day": 11,
+        "english_date": "2026-08-27",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्दशी"
+      },
+      {
+        "day": 12,
+        "english_date": "2026-08-28",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "पुर्णिमा",
+        "events":[
+          {"title_english": "Rakshya Bandhan", "title_nepali": "रक्षाबन्धन"},
+          {"title_nepali": "ऋषितर्पणी"}
+        ]
+      },
+      {
+        "day": 13,
+        "english_date": "2026-08-29",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "प्रतिपदा",
+        "events":[
+          {"title_english": "Gai Jatra", "title_nepali": "गाईजात्रा (सापारु)"}
+        ]
+      },
+      {
+        "day": 14,
+        "english_date": "2026-08-30",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वितीया",
+        "events":[
+          {"title_nepali": "रोपाई जात्रा"},
+          {"title_nepali": "यल मत्या"}
+        ]
+      },
+      {
+        "day": 15,
+        "english_date": "2026-08-31",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "तृतीया"
+      },
+      {
+        "day": 16,
+        "english_date": "2026-09-01",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्थी",
+        "events":[
+          {"title_nepali": "मंगल चौथी"},
+          {"title_nepali": "ललितपुर नृसिंह यात्रा"}
+        ]
+      },
+      {
+        "day": 17,
+        "english_date": "2026-09-02",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "षष्ठी"
+      },
+      {
+        "day": 18,
+        "english_date": "2026-09-03",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "सप्तमी"
+      },
+      {
+        "day": 19,
+        "english_date": "2026-09-04",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "अष्टमी",
+        "events":[
+          {"title_english": "Krishna Janmashtami", "title_nepali": "श्रीकृष्णजन्माष्टमी"},
+          {"title_nepali": "गौरा पर्व"}
+        ]
+      },
+      {
+        "day": 20,
+        "english_date": "2026-09-05",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "नवमी",
+        "events":[
+          {"title_nepali": "मानव बेचविखन विरुद्धको राष्ट्रिय दिवस"}
+        ]
+      },
+      {
+        "day": 21,
+        "english_date": "2026-09-06",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "दशमी"
+      },
+      {
+        "day": 22,
+        "english_date": "2026-09-07",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "एकादशी",
+        "events":[
+          {"title_english": "Civil Service Day", "title_nepali": "निजामती सेवा दिवस"},
+          {"title_nepali": "अजा एकादशी"}
+        ]
+      },
+      {
+        "day": 23,
+        "english_date": "2026-09-08",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वादशी",
+        "events":[
+          {"title_nepali": "स्वयम्भूको छाय्‌गुँ दर्शन"},
+          {"title_nepali": "जेनजी सहिद दिवस"}
+        ]
+      },
+      {
+        "day": 24,
+        "english_date": "2026-09-09",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "त्रयोदशी",
+        "events":[
+          {"title_nepali": "यें पञ्चदान"},
+          {"title_nepali": "जुग:चह्रे: पूजा"}
+        ]
+      },
+      {
+        "day": 25,
+        "english_date": "2026-09-10",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्दशी"
+      },
+      {
+        "day": 26,
+        "english_date": "2026-09-11",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "औंशी",
+        "events":[
+          {"title_english": "Kushe Aunsi (Fathers Day)", "title_nepali": "कुशे औंसी"},
+          {"title_nepali": "बाबुको मुख हेर्ने दिन"}
+        ]
+      },
+      {
+        "day": 27,
+        "english_date": "2026-09-12",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "प्रतिपदा",
+        "events":[
+          {"title_nepali": "गुँलाधर्म समाप्ति"}
+        ]
+      },
+      {
+        "day": 28,
+        "english_date": "2026-09-13",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वितीया",
+        "events":[
+          {"title_nepali": "दरखाने दिन"}
+        ]
+      },
+      {
+        "day": 29,
+        "english_date": "2026-09-14",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "तृतीया",
+        "events":[
+          {"title_english": "Haritalika Teej", "title_nepali": "हरितालिका ब्रत, तीज (महिला कर्मचारीहरुको लागि मात्र बिदा)"}
+        ]
+      },
+      {
+        "day": 30,
+        "english_date": "2026-09-15",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्थी",
+        "events":[
+          {"title_english": "Rishi Panchami", "title_nepali": "ऋषिपञ्चमीव्रत"},
+          {"title_nepali": "मंगल चौथी"}
+        ]
+      },
+      {
+        "day": 31,
+        "english_date": "2026-09-16",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पञ्चमी",
+        "events": [
+          {"title_nepali": "विरुडा पञ्चमी"}
+        ]
+      }
+    ]
+  },
+  "6": {
+    "year": 2083,
+    "month": 6,
+    "month_name": "Ashoj",
+    "month_name_nepali": "असोज",
+    "total_days": 31,
+    "days":[
+      {
+        "day": 1,
+        "english_date": "2026-09-17",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "षष्ठी",
+        "events":[
+          {"title_nepali": "विश्वकर्मा पूजा"},
+          {"title_nepali": "वास्तु दिवस"}
+        ]
+      },
+      {
+        "day": 2,
+        "english_date": "2026-09-18",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "सप्तमी"
+      },
+      {
+        "day": 3,
+        "english_date": "2026-09-19",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "अष्टमी",
+        "events":[
+          {"title_english": "Constitution Day", "title_nepali": "संविधान दिवस (राष्ट्रिय दिवस)"},
+          {"title_nepali": "काग अष्टमी"}
+        ]
+      },
+      {
+        "day": 4,
+        "english_date": "2026-09-20",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "नवमी"
+      },
+      {
+        "day": 5,
+        "english_date": "2026-09-21",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "दशमी"
+      },
+      {
+        "day": 6,
+        "english_date": "2026-09-22",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "एकादशी",
+        "events":[
+          {"title_nepali": "हरिपरिवर्तिनी एकादशी"}
+        ]
+      },
+      {
+        "day": 7,
+        "english_date": "2026-09-23",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वादशी",
+        "events":[
+          {"title_nepali": "इन्द्रध्वजोत्थान"},
+          {"title_nepali": "वामन द्वादशी"}
+        ]
+      },
+      {
+        "day": 8,
+        "english_date": "2026-09-24",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "त्रयोदशी"
+      },
+      {
+        "day": 9,
+        "english_date": "2026-09-25",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्दशी",
+        "events":[
+          {"title_english": "Indra Jatra", "title_nepali": "कुमारी इन्द्रजात्रा (काठमाडौँ उपत्यका मात्र विदा)"},
+          {"title_nepali": "अनन्त चतुर्दशी"}
+        ]
+      },
+      {
+        "day": 10,
+        "english_date": "2026-09-26",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "पुर्णिमा",
+        "events":[
+          {"title_nepali": "यँया पुन्हि:"},
+          {"title_nepali": "चेपाङ चोनाम पर्व"}
+        ]
+      },
+      {
+        "day": 11,
+        "english_date": "2026-09-27",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "प्रतिपदा",
+        "events":[
+          {"title_nepali": "सोह्रश्राद्ध आरम्भ"},
+          {"title_nepali": "प्रतिपदा श्राद्ध"}
+        ]
+      },
+      {
+        "day": 12,
+        "english_date": "2026-09-28",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वितीया",
+        "events": [
+          {"title_nepali": "द्वितीया श्राद्ध"}
+        ]
+      },
+      {
+        "day": 13,
+        "english_date": "2026-09-29",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "तृतीया",
+        "events":[
+          {"title_nepali": "तृतीया श्राद्ध"}
+        ]
+      },
+      {
+        "day": 14,
+        "english_date": "2026-09-30",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्थी",
+        "events":[
+          {"title_nepali": "चतुर्थी श्राद्ध"},
+          {"title_nepali": "इन्द्रध्वजपातन"}
+        ]
+      },
+      {
+        "day": 15,
+        "english_date": "2026-10-01",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पञ्चमी",
+        "events":[
+          {"title_nepali": "पञ्चमी तथा षष्ठी श्राद्ध"},
+          {"title_nepali": "राष्ट्रिय चलचित्र दिवस"}
+        ]
+      },
+      {
+        "day": 16,
+        "english_date": "2026-10-02",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "षष्ठी",
+        "events":[
+          {"title_nepali": "सप्तमी श्राद्ध"}
+        ]
+      },
+      {
+        "day": 17,
+        "english_date": "2026-10-03",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "सप्तमी",
+        "events":[
+          {"title_nepali": "अष्टमीव्रत"},
+          {"title_nepali": "अष्टमी श्राद्ध"}
+        ]
+      },
+      {
+        "day": 18,
+        "english_date": "2026-10-04",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "अष्टमी",
+        "events":[
+          {"title_nepali": "जितिया पर्व (जितिया पर्व मनाउने महिला कर्मचारीहरुका लागि मात्र बिदा)"}
+        ]
+      },
+      {
+        "day": 19,
+        "english_date": "2026-10-05",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "दशमी",
+        "events":[
+          {"title_nepali": "दशमी श्राद्ध"}
+        ]
+      },
+      {
+        "day": 20,
+        "english_date": "2026-10-06",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "एकादशी",
+        "events":[
+          {"title_nepali": "एकादशी श्राद्ध"},
+          {"title_nepali": "इन्दिरा एकादशी"}
+        ]
+      },
+      {
+        "day": 21,
+        "english_date": "2026-10-07",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वादशी",
+        "events":[
+          {"title_nepali": "द्वादशी श्राद्ध"}
+        ]
+      },
+      {
+        "day": 22,
+        "english_date": "2026-10-08",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "त्रयोदशी",
+        "events":[
+          {"title_nepali": "त्रयोदशी श्राद्ध"},
+          {"title_nepali": "जुम्ला खलङ्गामा चन्दननाथको लिङ्गो ठड्याउने"}
+        ]
+      },
+      {
+        "day": 23,
+        "english_date": "2026-10-09",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्दशी",
+        "events":[
+          {"title_nepali": "चतुर्दशी श्राद्ध"},
+          {"title_nepali": "न:लास्वाँ च:ह्रे"}
+        ]
+      },
+      {
+        "day": 24,
+        "english_date": "2026-10-10",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "औंशी",
+        "events":[
+          {"title_nepali": "औंसी श्राद्ध"},
+          {"title_nepali": "दर्शश्राद्ध"}
+        ]
+      },
+      {
+        "day": 25,
+        "english_date": "2026-10-11",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "प्रतिपदा",
+        "events":[
+          {"title_english": "Ghatasthapana", "title_nepali": "घटस्थापना"},
+          {"title_nepali": "नवरात्र आरम्भ"}
+        ]
+      },
+      {
+        "day": 26,
+        "english_date": "2026-10-12",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वितीया"
+      },
+      {
+        "day": 27,
+        "english_date": "2026-10-13",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "तृतीया"
+      },
+      {
+        "day": 28,
+        "english_date": "2026-10-14",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्थी"
+      },
+      {
+        "day": 29,
+        "english_date": "2026-10-15",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पञ्चमी",
+        "events":[
+          {"title_nepali": "पचली भैरव यात्रा"}
+        ]
+      },
+      {
+        "day": 30,
+        "english_date": "2026-10-16",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "षष्ठी"
+      },
+      {
+        "day": 31,
+        "english_date": "2026-10-17",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "सप्तमी",
+        "events":[
+          {"title_english": "Fulpati", "title_nepali": "फूलपाती"},
+          {"title_nepali": "नवपत्रिका प्रवेश"}
+        ]
+      }
+    ]
+  },
+  "7": {
+    "year": 2083,
+    "month": 7,
+    "month_name": "Kartik",
+    "month_name_nepali": "कार्तिक",
+    "total_days": 30,
+    "days":[
+      {
+        "day": 1,
+        "english_date": "2026-10-18",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "अष्टमी",
+        "events":[
+          {"title_english": "Maha Ashtami", "title_nepali": "महाष्टमी"},
+          {"title_nepali": "कालरात्री"}
+        ]
+      },
+      {
+        "day": 2,
+        "english_date": "2026-10-19",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "अष्टमी",
+        "events":[
+          {"title_nepali": "जनबहा: कुछि भ्वय्"}
+        ]
+      },
+      {
+        "day": 3,
+        "english_date": "2026-10-20",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "नवमी",
+        "events":[
+          {"title_english": "Maha Navami", "title_nepali": "महानवमी"},
+          {"title_nepali": "स्याक्व:त्याक्व:"}
+        ]
+      },
+      {
+        "day": 4,
+        "english_date": "2026-10-21",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "दशमी",
+        "events":[
+          {"title_english": "Vijaya Dashami", "title_nepali": "विजया दशमी"},
+          {"title_nepali": "दशैंको टिका"}
+        ]
+      },
+      {
+        "day": 5,
+        "english_date": "2026-10-22",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "एकादशी",
+        "events":[
+          {"title_nepali": "पापांकुशा एकादशी"},
+          {"title_nepali": "अन्नपूर्ण यात्रा"}
+        ]
+      },
+      {
+        "day": 6,
+        "english_date": "2026-10-23",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "द्वादशी"
+      },
+      {
+        "day": 7,
+        "english_date": "2026-10-24",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "त्रयोदशी"
+      },
+      {
+        "day": 8,
+        "english_date": "2026-10-25",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्दशी",
+        "events":[
+          {"title_nepali": "कोजाग्रतव्रत"},
+          {"title_nepali": "पूर्णिमा व्रत"}
+        ]
+      },
+      {
+        "day": 9,
+        "english_date": "2026-10-26",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पुर्णिमा",
+        "events":[
+          {"title_nepali": "कोजाग्रत पूर्णिमा"},
+          {"title_nepali": "कतिं पुन्हि:"}
+        ]
+      },
+      {
+        "day": 10,
+        "english_date": "2026-10-27",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "प्रतिपदा"
+      },
+      {
+        "day": 11,
+        "english_date": "2026-10-28",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वितीया"
+      },
+      {
+        "day": 12,
+        "english_date": "2026-10-29",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्थी"
+      },
+      {
+        "day": 13,
+        "english_date": "2026-10-30",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पञ्चमी"
+      },
+      {
+        "day": 14,
+        "english_date": "2026-10-31",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "षष्ठी"
+      },
+      {
+        "day": 15,
+        "english_date": "2026-11-01",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "सप्तमी",
+        "events":[
+          {"title_nepali": "रवि सप्तमी"}
+        ]
+      },
+      {
+        "day": 16,
+        "english_date": "2026-11-02",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "अष्टमी",
+        "events":[
+          {"title_nepali": "अष्टमीव्रत"},
+          {"title_nepali": "गोरखकाली पूजा"}
+        ]
+      },
+      {
+        "day": 17,
+        "english_date": "2026-11-03",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "नवमी"
+      },
+      {
+        "day": 18,
+        "english_date": "2026-11-04",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "दशमी"
+      },
+      {
+        "day": 19,
+        "english_date": "2026-11-05",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "एकादशी",
+        "events":[
+          {"title_nepali": "रमा एकादशी"}
+        ]
+      },
+      {
+        "day": 20,
+        "english_date": "2026-11-06",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वादशी",
+        "events":[
+          {"title_nepali": "धनतेरस"},
+          {"title_nepali": "यमदीप दान"}
+        ]
+      },
+      {
+        "day": 21,
+        "english_date": "2026-11-07",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "त्रयोदशी",
+        "events":[
+          {"title_english": "Kag Tihar", "title_nepali": "काग तिहार"},
+          {"title_nepali": "धन्वन्तरी जयन्ती"}
+        ]
+      },
+      {
+        "day": 22,
+        "english_date": "2026-11-08",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "चतुर्दशी",
+        "events":[
+          {"title_english": "Kukur Tihar", "title_nepali": "कुकुर तिहार"},
+          {"title_nepali": "नरक चतुर्दशी"}
+        ]
+      },
+      {
+        "day": 23,
+        "english_date": "2026-11-09",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "औंशी",
+        "events":[
+          {"title_english": "Laxmi Puja", "title_nepali": "लक्ष्मी पूजा"},
+          {"title_nepali": "औंसी"},
+          {"title_nepali": "गाई पूजा"}
+        ]
+      },
+      {
+        "day": 24,
+        "english_date": "2026-11-10",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "प्रतिपदा",
+        "events":[
+          {"title_english": "Gobardhan Puja", "title_nepali": "गोरु पूजा"},
+          {"title_nepali": "स्व:न्ति पारु"}
+        ]
+      },
+      {
+        "day": 25,
+        "english_date": "2026-11-11",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "द्वितीया",
+        "events":[
+          {"title_english": "Bhai Tika", "title_nepali": "भाइटीका"},
+          {"title_nepali": "किजा पूजा"}
+        ]
+      },
+      {
+        "day": 26,
+        "english_date": "2026-11-12",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "तृतीया"
+      },
+      {
+        "day": 27,
+        "english_date": "2026-11-13",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्थी"
+      },
+      {
+        "day": 28,
+        "english_date": "2026-11-14",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "पञ्चमी"
+      },
+      {
+        "day": 29,
+        "english_date": "2026-11-15",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "षष्ठी",
+        "events":[
+          {"title_english": "Chhath Parva", "title_nepali": "छठपर्व"},
+          {"title_nepali": "डाला पूजा"}
+        ]
+      },
+      {
+        "day": 30,
+        "english_date": "2026-11-16",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "सप्तमी"
+      }
+    ]
+  },
+  "8": {
+    "year": 2083,
+    "month": 8,
+    "month_name": "Mangshir",
+    "month_name_nepali": "मंसिर",
+    "total_days": 29,
+    "days":[
+      {
+        "day": 1,
+        "english_date": "2026-11-17",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "अष्टमी",
+        "events":[
+          {"title_nepali": "अष्टमीव्रत"},
+          {"title_nepali": "गोरखकाली पूजा"}
+        ]
+      },
+      {
+        "day": 2,
+        "english_date": "2026-11-18",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "नवमी",
+        "events":[
+          {"title_nepali": "कुष्माण्ड नवमी"}
+        ]
+      },
+      {
+        "day": 3,
+        "english_date": "2026-11-19",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "दशमी",
+        "events":[
+          {"title_nepali": "बलम्बु महालक्ष्मी यात्रा"}
+        ]
+      },
+      {
+        "day": 4,
+        "english_date": "2026-11-20",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "एकादशी",
+        "events":[
+          {"title_nepali": "हरिबोधिनी एकादशी"},
+          {"title_nepali": "तुलसी विवाह"}
+        ]
+      },
+      {
+        "day": 5,
+        "english_date": "2026-11-21",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "द्वादशी",
+        "events":[
+          {"title_nepali": "चाँगुनारायण अखण्डदीप दर्शन"}
+        ]
+      },
+      {
+        "day": 6,
+        "english_date": "2026-11-22",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "त्रयोदशी",
+        "events":[
+          {"title_nepali": "वैकुण्ठ चतुर्दशी"}
+        ]
+      },
+      {
+        "day": 7,
+        "english_date": "2026-11-23",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्दशी"
+      },
+      {
+        "day": 8,
+        "english_date": "2026-11-24",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पुर्णिमा",
+        "events":[
+          {"title_nepali": "गुरुनानक जयन्ती (शिख धर्मावलम्बी कर्मचारीहरुका लागि मात्र बिदा)"}
+        ]
+      },
+      {
+        "day": 9,
+        "english_date": "2026-11-25",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "प्रतिपदा"
+      },
+      {
+        "day": 10,
+        "english_date": "2026-11-26",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वितीया"
+      },
+      {
+        "day": 11,
+        "english_date": "2026-11-27",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "तृतीया"
+      },
+      {
+        "day": 12,
+        "english_date": "2026-11-28",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "चतुर्थी"
+      },
+      {
+        "day": 13,
+        "english_date": "2026-11-29",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पञ्चमी"
+      },
+      {
+        "day": 14,
+        "english_date": "2026-11-30",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "षष्ठी"
+      },
+      {
+        "day": 15,
+        "english_date": "2026-12-01",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "अष्टमी",
+        "events":[
+          {"title_nepali": "भैरवाष्टमी"}
+        ]
+      },
+      {
+        "day": 16,
+        "english_date": "2026-12-02",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "नवमी"
+      },
+      {
+        "day": 17,
+        "english_date": "2026-12-03",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "दशमी",
+        "events":[
+          {"title_nepali": "विश्व अपाङ्ग दिवस (अपाङ्गता भएका कर्मचारीहरुका लागि बिदा)"}
+        ]
+      },
+      {
+        "day": 18,
+        "english_date": "2026-12-04",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "एकादशी",
+        "events":[
+          {"title_nepali": "उत्पतिका एकादशी"}
+        ]
+      },
+      {
+        "day": 19,
+        "english_date": "2026-12-05",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "द्वादशी"
+      },
+      {
+        "day": 20,
+        "english_date": "2026-12-06",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "त्रयोदशी",
+        "events": [
+          {"title_nepali": "पशुपतिनाथ मेला"}
+        ]
+      },
+      {
+        "day": 21,
+        "english_date": "2026-12-07",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्दशी",
+        "events":[
+          {"title_english": "Bala Chaturdashi", "title_nepali": "बाला चतुर्दशी"},
+          {"title_nepali": "शतबीज छर्ने"}
+        ]
+      },
+      {
+        "day": 22,
+        "english_date": "2026-12-08",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "औंशी"
+      },
+      {
+        "day": 23,
+        "english_date": "2026-12-09",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "प्रतिपदा"
+      },
+      {
+        "day": 24,
+        "english_date": "2026-12-10",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "प्रतिपदा",
+        "events":[
+          {"title_nepali": "विश्व मानव अधिकार दिवस"}
+        ]
+      },
+      {
+        "day": 25,
+        "english_date": "2026-12-11",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वितीया"
+      },
+      {
+        "day": 26,
+        "english_date": "2026-12-12",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "तृतीया"
+      },
+      {
+        "day": 27,
+        "english_date": "2026-12-13",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्थी"
+      },
+      {
+        "day": 28,
+        "english_date": "2026-12-14",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पञ्चमी",
+        "events":[
+          {"title_english": "Vivaha Panchami", "title_nepali": "विवाह पञ्चमी"},
+          {"title_nepali": "जनकपुरमा सीता विवाह पञ्चमी मेला"}
+        ]
+      },
+      {
+        "day": 29,
+        "english_date": "2026-12-15",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "षष्ठी"
+      }
+    ]
+  },
+  "9": {
+    "year": 2083,
+    "month": 9,
+    "month_name": "Poush",
+    "month_name_nepali": "पुष",
+    "total_days": 30,
+    "days":[
+      {
+        "day": 1,
+        "english_date": "2026-12-16",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "सप्तमी"
+      },
+      {
+        "day": 2,
+        "english_date": "2026-12-17",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "अष्टमी",
+        "events":[
+          {"title_nepali": "अष्टमीव्रत"},
+          {"title_nepali": "गोरखकाली पूजा"}
+        ]
+      },
+      {
+        "day": 3,
+        "english_date": "2026-12-18",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "नवमी"
+      },
+      {
+        "day": 4,
+        "english_date": "2026-12-19",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "दशमी"
+      },
+      {
+        "day": 5,
+        "english_date": "2026-12-20",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "एकादशी",
+        "events":[
+          {"title_nepali": "मोक्षदा एकादशी"}
+        ]
+      },
+      {
+        "day": 6,
+        "english_date": "2026-12-21",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वादशी"
+      },
+      {
+        "day": 7,
+        "english_date": "2026-12-22",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "त्रयोदशी",
+        "events":[
+          {"title_nepali": "पूर्णिमाव्रत"}
+        ]
+      },
+      {
+        "day": 8,
+        "english_date": "2026-12-23",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्दशी"
+      },
+      {
+        "day": 9,
+        "english_date": "2026-12-24",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पुर्णिमा",
+        "events":[
+          {"title_nepali": "यमरीपुन्ही:"},
+          {"title_nepali": "योंला पुन्ही:"}
+        ]
+      },
+      {
+        "day": 10,
+        "english_date": "2026-12-25",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "द्वितीया",
+        "events":[
+          {"title_english": "Christmas Day", "title_nepali": "क्रिसमस डे"}
+        ]
+      },
+      {
+        "day": 11,
+        "english_date": "2026-12-26",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "तृतीया"
+      },
+      {
+        "day": 12,
+        "english_date": "2026-12-27",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्थी"
+      },
+      {
+        "day": 13,
+        "english_date": "2026-12-28",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पञ्चमी"
+      },
+      {
+        "day": 14,
+        "english_date": "2026-12-29",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "षष्ठी"
+      },
+      {
+        "day": 15,
+        "english_date": "2026-12-30",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "सप्तमी",
+        "events":[
+          {"title_english": "Tamu Lhosar", "title_nepali": "तमुल्होछार"}
+        ]
+      },
+      {
+        "day": 16,
+        "english_date": "2026-12-31",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "अष्टमी",
+        "events":[
+          {"title_nepali": "अष्टमीव्रत"},
+          {"title_nepali": "गोरखकाली पूजा"}
+        ]
+      },
+      {
+        "day": 17,
+        "english_date": "2027-01-01",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "नवमी",
+        "events":[
+          {"title_english": "New Year 2027", "title_nepali": "सन् २०२७ आरम्भ"}
+        ]
+      },
+      {
+        "day": 18,
+        "english_date": "2027-01-02",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "दशमी"
+      },
+      {
+        "day": 19,
+        "english_date": "2027-01-03",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "एकादशी",
+        "events": [
+          {"title_nepali": "सफला एकादशी"}
+        ]
+      },
+      {
+        "day": 20,
+        "english_date": "2027-01-04",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वादशी"
+      },
+      {
+        "day": 21,
+        "english_date": "2027-01-05",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "त्रयोदशी",
+        "events":[
+          {"title_nepali": "गुरु गोविन्दसिंह जयन्ती"}
+        ]
+      },
+      {
+        "day": 22,
+        "english_date": "2027-01-06",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्दशी",
+        "events":[
+          {"title_nepali": "दिशी चह्रे:"}
+        ]
+      },
+      {
+        "day": 23,
+        "english_date": "2027-01-07",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "औंशी",
+        "events":[
+          {"title_nepali": "अरनिको स्मृति दिवस"}
+        ]
+      },
+      {
+        "day": 24,
+        "english_date": "2027-01-08",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "प्रतिपदा",
+        "events":[
+          {"title_nepali": "तोल ल्होसार"},
+          {"title_nepali": "नेपाल ज्योतिष परिषद् स्थापना दिवस"}
+        ]
+      },
+      {
+        "day": 25,
+        "english_date": "2027-01-09",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "द्वितीया"
+      },
+      {
+        "day": 26,
+        "english_date": "2027-01-10",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "तृतीया"
+      },
+      {
+        "day": 27,
+        "english_date": "2027-01-11",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "तृतीया",
+        "events":[
+          {"title_english": "Prithvi Jayanti", "title_nepali": "पृथ्वी जयन्ती"},
+          {"title_nepali": "राष्ट्रिय एकता दिवस"}
+        ]
+      },
+      {
+        "day": 28,
+        "english_date": "2027-01-12",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्थी",
+        "events":[
+          {"title_nepali": "मंगलचौथी"}
+        ]
+      },
+      {
+        "day": 29,
+        "english_date": "2027-01-13",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पञ्चमी"
+      },
+      {
+        "day": 30,
+        "english_date": "2027-01-14",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "षष्ठी"
+      }
+    ]
+  },
+  "10": {
+    "year": 2083,
+    "month": 10,
+    "month_name": "Magh",
+    "month_name_nepali": "माघ",
+    "total_days": 29,
+    "days":[
+      {
+        "day": 1,
+        "english_date": "2027-01-15",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "सप्तमी",
+        "events":[
+          {"title_english": "Maghe Sankranti", "title_nepali": "माघे संक्रान्ति"},
+          {"title_nepali": "माघी पर्व"}
+        ]
+      },
+      {
+        "day": 2,
+        "english_date": "2027-01-16",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "अष्टमी",
+        "events":[
+          {"title_nepali": "अष्टमीव्रत"},
+          {"title_nepali": "सेतो मछिन्द्रनाथ स्नान"}
+        ]
+      },
+      {
+        "day": 3,
+        "english_date": "2027-01-17",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "नवमी"
+      },
+      {
+        "day": 4,
+        "english_date": "2027-01-18",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "एकादशी",
+        "events":[
+          {"title_nepali": "स्मार्तहरुको पुत्रदा एकादशी"}
+        ]
+      },
+      {
+        "day": 5,
+        "english_date": "2027-01-19",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वादशी",
+        "events": [
+          {"title_nepali": "वैष्णवहरुको पुत्रदा एकादशी"}
+        ]
+      },
+      {
+        "day": 6,
+        "english_date": "2027-01-20",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "त्रयोदशी"
+      },
+      {
+        "day": 7,
+        "english_date": "2027-01-21",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्दशी"
+      },
+      {
+        "day": 8,
+        "english_date": "2027-01-22",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पुर्णिमा",
+        "events":[
+          {"title_nepali": "श्रीस्वस्थानीव्रत आरम्भ"},
+          {"title_nepali": "मिला पुन्हि:"}
+        ]
+      },
+      {
+        "day": 9,
+        "english_date": "2027-01-23",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "प्रतिपदा"
+      },
+      {
+        "day": 10,
+        "english_date": "2027-01-24",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वितीया"
+      },
+      {
+        "day": 11,
+        "english_date": "2027-01-25",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "तृतीया",
+        "events":[
+          {"title_nepali": "मंगल चौथी"}
+        ]
+      },
+      {
+        "day": 12,
+        "english_date": "2027-01-26",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्थी"
+      },
+      {
+        "day": 13,
+        "english_date": "2027-01-27",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पञ्चमी"
+      },
+      {
+        "day": 14,
+        "english_date": "2027-01-28",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "षष्ठी"
+      },
+      {
+        "day": 15,
+        "english_date": "2027-01-29",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "सप्तमी",
+        "events":[
+          {"title_nepali": "अष्टमीव्रत"},
+          {"title_nepali": "गोरखकाली पूजा"}
+        ]
+      },
+      {
+        "day": 16,
+        "english_date": "2027-01-30",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "अष्टमी",
+        "events":[
+          {"title_english": "Martyr's Day", "title_nepali": "सहिद दिवस"}
+        ]
+      },
+      {
+        "day": 17,
+        "english_date": "2027-01-31",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "नवमी"
+      },
+      {
+        "day": 18,
+        "english_date": "2027-02-01",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "दशमी"
+      },
+      {
+        "day": 19,
+        "english_date": "2027-02-02",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "एकादशी",
+        "events":[
+          {"title_nepali": "षटतिला एकादशी"}
+        ]
+      },
+      {
+        "day": 20,
+        "english_date": "2027-02-03",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वादशी"
+      },
+      {
+        "day": 21,
+        "english_date": "2027-02-04",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "त्रयोदशी"
+      },
+      {
+        "day": 22,
+        "english_date": "2027-02-05",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्दशी",
+        "events":[
+          {"title_nepali": "लैचह्रे:"}
+        ]
+      },
+      {
+        "day": 23,
+        "english_date": "2027-02-06",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "औंशी",
+        "events":[
+          {"title_nepali": "पशुपति क्षेत्रमा माधव नारायण मेला"},
+          {"title_nepali": "त्रिवेणी मेला"}
+        ]
+      },
+      {
+        "day": 24,
+        "english_date": "2027-02-07",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "प्रतिपदा",
+        "events":[
+          {"title_english": "Sonam Lhosar", "title_nepali": "सोनाम ल्होसार"},
+          {"title_nepali": "तामाङ ल्होछार"}
+        ]
+      },
+      {
+        "day": 25,
+        "english_date": "2027-02-08",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वितीया"
+      },
+      {
+        "day": 26,
+        "english_date": "2027-02-09",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "तृतीया"
+      },
+      {
+        "day": 27,
+        "english_date": "2027-02-10",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्थी"
+      },
+      {
+        "day": 28,
+        "english_date": "2027-02-11",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पञ्चमी",
+        "events":[
+          {"title_english": "Saraswati Puja", "title_nepali": "सरस्वती पूजा"},
+          {"title_nepali": "वसन्तपञ्चमी"}
+        ]
+      },
+      {
+        "day": 29,
+        "english_date": "2027-02-12",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "षष्ठी"
+      }
+    ]
+  },
+  "11": {
+    "year": 2083,
+    "month": 11,
+    "month_name": "Falgun",
+    "month_name_nepali": "फाल्गुन",
+    "total_days": 30,
+    "days":[
+      {
+        "day": 1,
+        "english_date": "2027-02-13",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "सप्तमी",
+        "events":[
+          {"title_nepali": "विश्व रेडियो दिवस"},
+          {"title_nepali": "अचला सप्तमी"}
+        ]
+      },
+      {
+        "day": 2,
+        "english_date": "2027-02-14",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "अष्टमी",
+        "events":[
+          {"title_nepali": "अष्टमीव्रत"},
+          {"title_nepali": "भिष्माष्टमी"}
+        ]
+      },
+      {
+        "day": 3,
+        "english_date": "2027-02-15",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "नवमी"
+      },
+      {
+        "day": 4,
+        "english_date": "2027-02-16",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "दशमी"
+      },
+      {
+        "day": 5,
+        "english_date": "2027-02-17",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "एकादशी",
+        "events":[
+          {"title_nepali": "भीमा एकादशी"}
+        ]
+      },
+      {
+        "day": 6,
+        "english_date": "2027-02-18",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वादशी",
+        "events":[
+          {"title_nepali": "चाँगुमा माधव नारायण मेला"}
+        ]
+      },
+      {
+        "day": 7,
+        "english_date": "2027-02-19",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "त्रयोदशी",
+        "events":[
+          {"title_english": "National Democracy Day", "title_nepali": "राष्ट्रिय प्रजातन्त्र दिवस"},
+          {"title_nepali": "निर्वाचन दिवस"}
+        ]
+      },
+      {
+        "day": 8,
+        "english_date": "2027-02-20",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "चतुर्दशी",
+        "events":[
+          {"title_nepali": "श्रीस्वस्थानीव्रत समाप्ति"},
+          {"title_nepali": "सि पुन्हि:"}
+        ]
+      },
+      {
+        "day": 9,
+        "english_date": "2027-02-21",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "प्रतिपदा"
+      },
+      {
+        "day": 10,
+        "english_date": "2027-02-22",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वितीया"
+      },
+      {
+        "day": 11,
+        "english_date": "2027-02-23",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "तृतीया"
+      },
+      {
+        "day": 12,
+        "english_date": "2027-02-24",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्थी"
+      },
+      {
+        "day": 13,
+        "english_date": "2027-02-25",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पञ्चमी"
+      },
+      {
+        "day": 14,
+        "english_date": "2027-02-26",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "षष्ठी"
+      },
+      {
+        "day": 15,
+        "english_date": "2027-02-27",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "सप्तमी"
+      },
+      {
+        "day": 16,
+        "english_date": "2027-02-28",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "अष्टमी",
+        "events":[
+          {"title_nepali": "अष्टमीव्रत"},
+          {"title_nepali": "गोरखकाली पूजा"}
+        ]
+      },
+      {
+        "day": 17,
+        "english_date": "2027-03-01",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "नवमी"
+      },
+      {
+        "day": 18,
+        "english_date": "2027-03-02",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "दशमी",
+        "events":[
+          {"title_nepali": "माझी समुदायको लदी पूजा"}
+        ]
+      },
+      {
+        "day": 19,
+        "english_date": "2027-03-03",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "एकादशी",
+        "events":[
+          {"title_nepali": "विजया एकादशी"}
+        ]
+      },
+      {
+        "day": 20,
+        "english_date": "2027-03-04",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "एकादशी"
+      },
+      {
+        "day": 21,
+        "english_date": "2027-03-05",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वादशी"
+      },
+      {
+        "day": 22,
+        "english_date": "2027-03-06",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "त्रयोदशी",
+        "events":[
+          {"title_english": "Maha Shivaratri", "title_nepali": "महाशिवरात्रि"},
+          {"title_nepali": "सिलाचह्रे:"}
+        ]
+      },
+      {
+        "day": 23,
+        "english_date": "2027-03-07",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्दशी"
+      },
+      {
+        "day": 24,
+        "english_date": "2027-03-08",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "औंशी",
+        "events":[
+          {"title_english": "International Women's Day", "title_nepali": "अन्तर्राष्ट्रिय महिला दिवस"}
+        ]
+      },
+      {
+        "day": 25,
+        "english_date": "2027-03-09",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "प्रतिपदा",
+        "events":[
+          {"title_english": "Gyalpo Lhosar", "title_nepali": "ग्याल्पो ल्होसार"}
+        ]
+      },
+      {
+        "day": 26,
+        "english_date": "2027-03-10",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वितीया"
+      },
+      {
+        "day": 27,
+        "english_date": "2027-03-11",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "तृतीया"
+      },
+      {
+        "day": 28,
+        "english_date": "2027-03-12",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्थी"
+      },
+      {
+        "day": 29,
+        "english_date": "2027-03-13",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "पञ्चमी"
+      },
+      {
+        "day": 30,
+        "english_date": "2027-03-14",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "षष्ठी"
+      }
+    ]
+  },
+  "12": {
+    "year": 2083,
+    "month": 12,
+    "month_name": "Chaitra",
+    "month_name_nepali": "चैत्र",
+    "total_days": 30,
+    "days":[
+      {
+        "day": 1,
+        "english_date": "2027-03-15",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "सप्तमी"
+      },
+      {
+        "day": 2,
+        "english_date": "2027-03-16",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "अष्टमी",
+        "events":[
+          {"title_nepali": "भौमाष्टमीव्रत"},
+          {"title_nepali": "चिरोत्थान"}
+        ]
+      },
+      {
+        "day": 3,
+        "english_date": "2027-03-17",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "दशमी"
+      },
+      {
+        "day": 4,
+        "english_date": "2027-03-18",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "एकादशी",
+        "events":[
+          {"title_nepali": "आमलकी एकादशी"}
+        ]
+      },
+      {
+        "day": 5,
+        "english_date": "2027-03-19",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वादशी"
+      },
+      {
+        "day": 6,
+        "english_date": "2027-03-20",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "त्रयोदशी"
+      },
+      {
+        "day": 7,
+        "english_date": "2027-03-21",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "चतुर्दशी",
+        "events":[
+          {"title_english": "Holi (Hilly Region)", "title_nepali": "होली"},
+          {"title_nepali": "चीरदाह"}
+        ]
+      },
+      {
+        "day": 8,
+        "english_date": "2027-03-22",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पुर्णिमा",
+        "events":[
+          {"title_english": "Holi (Terai Region)", "title_nepali": "तराईमा होली"},
+          {"title_nepali": "फागु पुर्णिमा"}
+        ]
+      },
+      {
+        "day": 9,
+        "english_date": "2027-03-23",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "प्रतिपदा",
+        "events":[
+          {"title_nepali": "नाला मछिन्द्रनाथ स्नान (नाला न्हवं)"}
+        ]
+      },
+      {
+        "day": 10,
+        "english_date": "2027-03-24",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वितीया",
+        "events":[
+          {"title_nepali": "विश्व क्षयरोग दिवस"}
+        ]
+      },
+      {
+        "day": 11,
+        "english_date": "2027-03-25",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "तृतीया",
+        "events":[
+          {"title_nepali": "नाला मछिन्द्रनाथ रथयात्रा"}
+        ]
+      },
+      {
+        "day": 12,
+        "english_date": "2027-03-26",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्थी"
+      },
+      {
+        "day": 13,
+        "english_date": "2027-03-27",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "पञ्चमी"
+      },
+      {
+        "day": 14,
+        "english_date": "2027-03-28",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "षष्ठी"
+      },
+      {
+        "day": 15,
+        "english_date": "2027-03-29",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "सप्तमी"
+      },
+      {
+        "day": 16,
+        "english_date": "2027-03-30",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "अष्टमी",
+        "events":[
+          {"title_nepali": "शीतलाष्टमी"},
+          {"title_nepali": "गोरखकाली पूजा"}
+        ]
+      },
+      {
+        "day": 17,
+        "english_date": "2027-03-31",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "नवमी"
+      },
+      {
+        "day": 18,
+        "english_date": "2027-04-01",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "दशमी"
+      },
+      {
+        "day": 19,
+        "english_date": "2027-04-02",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "एकादशी",
+        "events":[
+          {"title_nepali": "पापमोचनी एकादशी"}
+        ]
+      },
+      {
+        "day": 20,
+        "english_date": "2027-04-03",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "द्वादशी"
+      },
+      {
+        "day": 21,
+        "english_date": "2027-04-04",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "त्रयोदशी"
+      },
+      {
+        "day": 22,
+        "english_date": "2027-04-05",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "चतुर्दशी",
+        "events":[
+          {"title_nepali": "पाहाँ (पासा) चह्रे:"}
+        ]
+      },
+      {
+        "day": 23,
+        "english_date": "2027-04-06",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "औंशी",
+        "events":[
+          {"title_english": "Ghode Jatra", "title_nepali": "घोडे जात्रा"}
+        ]
+      },
+      {
+        "day": 24,
+        "english_date": "2027-04-07",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "प्रतिपदा",
+        "events":[
+          {"title_nepali": "चोभार आदिनाथ स्नान"}
+        ]
+      },
+      {
+        "day": 25,
+        "english_date": "2027-04-08",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "द्वितीया"
+      },
+      {
+        "day": 26,
+        "english_date": "2027-04-09",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "तृतीया",
+        "events":[
+          {"title_nepali": "मत्स्येनारायण मेला"},
+          {"title_nepali": "मत्स्येजयन्ती"}
+        ]
+      },
+      {
+        "day": 27,
+        "english_date": "2027-04-10",
+        "is_holiday": true,
+        "is_public_holiday": true,
+        "tithi_nepali": "चतुर्थी"
+      },
+      {
+        "day": 28,
+        "english_date": "2027-04-11",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "पञ्चमी"
+      },
+      {
+        "day": 29,
+        "english_date": "2027-04-12",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "षष्ठी",
+        "events":[
+          {"title_nepali": "चैती छठ"}
+        ]
+      },
+      {
+        "day": 30,
+        "english_date": "2027-04-13",
+        "is_holiday": false,
+        "is_public_holiday": false,
+        "tithi_nepali": "सप्तमी",
+        "events":[
+          {"title_nepali": "भक्तपुर विश्वध्वजोत्थान"}
+        ]
+      }
+    ]
+  }
+}
